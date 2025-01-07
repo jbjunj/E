@@ -1,6 +1,6 @@
 {
     "token": "MTMyNTQ5ODg3NzczNDAyNzMzNQ.GJ3PiU.DEfZGB-vutFl2hpkEhbQUpn5krmv8numT-hg0w",
-    "color": "embecolor",
+    "color": "606",
     "prefix": "&",
     "name": "Footer Name",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
